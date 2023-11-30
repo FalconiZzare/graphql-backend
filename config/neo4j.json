@@ -1,0 +1,7 @@
+{
+  "development": {
+    "username": "neo4jusername",
+    "password": "neo4jpass",
+    "uri": "neo4j+s://uri"
+  }
+}

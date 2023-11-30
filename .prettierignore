@@ -1,0 +1,6 @@
+dist
+node_modules
+build
+src/dev
+src/lib
+src/components/ui
